@@ -1,0 +1,14 @@
+.header {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: auto;
+    padding-top: 10px;
+}
+
+.header-img {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+
+}
